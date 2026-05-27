@@ -1,0 +1,29 @@
+# dependencies
+node_modules/
+**/node_modules/
+
+# build output
+dist/
+build/
+.next/
+out/
+coverage/
+.turbo/
+
+# logs
+logs/
+*.log
+npm-debug.log*
+pnpm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS / IDE
+.DS_Store
+.idea/
+.vscode/
+
+# env files
+.env
+.env.*
+
